@@ -1,0 +1,6 @@
+{
+  "gemini_api_key": "在此填入你的 Gemini API key（請複製本檔為 config.local.json 再填）",
+  "model_route": "gemini-3.1-flash-lite",
+  "model_generate": "gemini-3.5-flash",
+  "narrow_threshold": 30
+}

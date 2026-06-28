@@ -1,0 +1,14 @@
+# secrets — 絕不進 repo
+config.local.json
+
+# python
+__pycache__/
+*.pyc
+
+# 真公司辦法（敏感，永不進公開 repo；docs/ 為私人投放區）
+docs/*.pdf
+docs/*.docx
+docs/*.doc
+
+# 暫存產物（抓取 HTML、模擬中間檔等，不進 repo）
+temp/
